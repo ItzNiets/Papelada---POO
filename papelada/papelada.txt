@@ -1,0 +1,42 @@
+joguinho de papelada:
+
+
+para marcar um exame:
+carteira plano de saúde
+RG/carteirinha de identidade
+agenda aberta:
+
+
+
+para comparecer ao exame:
+RG/carteirinha de identidade:
+guia do exame.
+
+
+--------------------------------
+
+classe agendamento:
+1-nome:str
+2-sexo:str
+3-idade:int
+4-RG:int
+5-n° plano saúde:int
+6-n° telefone: int
+7-peso: float
+8-altura: float
+9-data do dia:int
+10-data de agendamento: int
+
+
+
+classe dia do exame:
+1-n° guia:
+2-convenio:
+3-dia reagendamento:
+4-exames de sangue:
+5-prescrição de remédios:
+6-jejum:
+7-pressão:
+8-assinatura:
+9-atestado:
+10-profissional desejado:
