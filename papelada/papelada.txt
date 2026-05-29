@@ -15,28 +15,28 @@ guia do exame.
 
 --------------------------------
 
-classe agendamento:
+classe request:
 1-nome:str
 2-sexo:str
 3-idade:int
-4-RG:int
-5-n° plano saúde:int
-6-n° telefone: int
+4-RG Registro de Guilda:int
+5-Bicho pra matar:int
+6-pedrinha de contato: str
 7-peso: float
 8-altura: float
 9-data do dia:int
-10-data de agendamento: int
+10-data de entrega: int
 
 
 
-classe dia do exame:
-1-n° guia:
-2-convenio:
-3-dia reagendamento:
-4-exames de sangue:
-5-prescrição de remédios:
-6-jejum:
-7-pressão:
-8-assinatura:
-9-atestado:
-10-profissional desejado:
+classe arma:
+1-peso:
+2-tamanho:
+3-tipo de dano:
+4-tipo de efeito:
+5-range:
+6-dano:
+7-durabilidade:
+8-area de efeito:
+9-data de devolução:
+10-preço:
